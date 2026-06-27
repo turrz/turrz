@@ -117,14 +117,14 @@ Full-stack traffic citation management platform with separate driver and admin p
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=turrz&show_icons=true&theme=default&hide_border=true&count_private=false" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turrz&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=turrz&show_icons=true&theme=github_dark&hide_border=true&count_private=false" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turrz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=turrz&hide_border=true&theme=default" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=turrz&theme=github-dark&hide_border=true" alt="GitHub streak" />
 
 </div>
 
