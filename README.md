@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,45:2563eb,100:14b8a6&text=Viacheslav%20Yefimenko&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Backend%20%7C%20Full-Stack%20%7C%20Developer%20Tools&descAlignY=58&descSize=17" alt="Viacheslav Yefimenko banner" />
-
-**Computer Science student building backend systems, full-stack applications, and developer tools.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-turrz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/turrz)
-[![Email](https://img.shields.io/badge/Email-contact%40yefimenko.tech-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@yefimenko.tech)
-[![University of Lincoln](https://img.shields.io/badge/University%20of%20Lincoln-BSc%20Computer%20Science-003366?style=for-the-badge)](https://www.lincoln.ac.uk/)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:111827,50:4b5563,100:d1d5db&text=Viacheslav%20Yefimenko&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Backend%20%7C%20Full-Stack%20%7C%20Developer%20Tools&descAlignY=58&descSize=17" alt="Viacheslav Yefimenko banner" />
 
 </div>
 
@@ -14,7 +8,9 @@
 
 ## About
 
-I'm a BSc Computer Science student at the University of Lincoln, focused on backend services, full-stack applications, and developer tooling. I like building systems where APIs are clear, data flows are understandable, and the implementation is easy to extend.
+Computer Science student focused on backend engineering, full-stack applications and developer tools.
+
+> Open to Software Engineering internships and graduate opportunities in the UK.
 
 ---
 
@@ -54,59 +50,12 @@ I'm a BSc Computer Science student at the University of Lincoln, focused on back
 
 ## Education
 
-**BSc Computer Science** — University of Lincoln  
-2024 - 2027  
-Programme Representative, 2024 - 2026
-
-**NQF BTEC National Foundation Diploma in Engineering** — Lincoln UTC  
-2022 - 2024
+![University of Lincoln](https://img.shields.io/badge/University%20of%20Lincoln-BSc%20Computer%20Science%20%7C%202024--2027-374151?style=for-the-badge)
+![Programme Representative](https://img.shields.io/badge/Programme%20Representative-2024--2026-111827?style=for-the-badge)
+![Lincoln UTC](https://img.shields.io/badge/Lincoln%20UTC-BTEC%20Engineering%20%7C%202022--2024-6b7280?style=for-the-badge)
 
 ---
 
 ## Certifications
 
-**Microsoft Certified: Azure AI Fundamentals** — Microsoft  
-Issued October 2024
-
----
-
-## Featured Projects
-
-### [TonAssemble](https://github.com/turrz/ton-assemble)
-
-Telegram Mini App for publishing static websites to `.ton` domains using TON infrastructure and blockchain integrations.
-
-`TypeScript` `Node.js` `Fastify` `React` `TON Connect` `SQLite` `Docker`
-
----
-
-### [Scrape](https://github.com/TSE1426/Scrape)
-
-Visual programming environment built with WPF and C# — drag-and-drop blocks compose into programs backed by a node graph execution engine. I worked across the runtime and the UI: designing the graph-backed execution model and runtime architecture, wiring flow pin connections and loop blocks, building the block palette UI and sprite systems, implementing `MoveSpriteNode`, and integrating backend/frontend callbacks with `EvaluationContext` improvements so the engine can drive live frontend behaviour.
-
-`C#` `WPF` `.NET` `Node Graph`
-
----
-
-### [Genetic TSP Solver](https://github.com/turrz/genetic-tsp-solver)
-
-Genetic Algorithm solver and visualisation tool for the Travelling Salesman Problem, with configurable selection, crossover, mutation, and fitness operators.
-
-`Python` `NumPy` `Tkinter` `Pytest` `Genetic Algorithms`
-
----
-
-### [NY Patrol Citation System](https://github.com/turrz/ny-patrol-citation-system)
-
-Full-stack traffic citation management platform with separate driver and admin portals, JWT authentication, and citation CRUD workflows.
-
-`FastAPI` `MySQL` `JavaScript` `JWT`
-
----
-
-## Contact
-
-Open to software engineering internships and graduate opportunities.
-
-[![GitHub](https://img.shields.io/badge/GitHub-@turrz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/turrz)
-[![Email](https://img.shields.io/badge/Email-contact%40yefimenko.tech-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@yefimenko.tech)
+![Microsoft Certified: Azure AI Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals%20%7C%20Oct%202024-2563eb?style=for-the-badge&logo=microsoft&logoColor=white)
