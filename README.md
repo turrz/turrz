@@ -10,7 +10,7 @@
 
 Computer Science student focused on backend engineering, full-stack applications and developer tools.
 
-> Open to Software Engineering internships and graduate opportunities in the UK.
+> Open to Software Engineering internships and graduate opportunities.
 
 ---
 
